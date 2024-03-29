@@ -2,7 +2,7 @@
 
 ## Active
 
-[2024 SuperHalfs in aid of MIND](https://www.justgiving.com/page/mweeks03) - £???
+[2024 SuperHalfs in aid of MIND](https://www.justgiving.com/page/mweeks03)
 
 ## Past
 
