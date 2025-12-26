@@ -2,6 +2,10 @@
 
 ## Currently active
 
+<!-- Even if the event has passed, if you would like to donate to a cause I am supporting [this](https://www.justgiving.com/page/mweeks05) is a link to my currently active charity fund raiser - thank you. -->
+
+Even if the event has passed, if you would like to donate to a cause I am supporting [this](https://www.justgiving.com/page/mweeks04) is a link to my currently active charity fund raiser - thank you.
+
 <!-- [Running 2600km in '26 in aid of Guide Dogs](https://www.justgiving.com/page/mweeks05)
 
 [![TBC](img/2025LLHMGuideDogs.jpg)](https://www.justgiving.com/page/mweeks05) -->
