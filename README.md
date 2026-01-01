@@ -2,24 +2,18 @@
 
 ## Currently active
 
-<!-- Even if the event has passed, if you would like to donate to a cause I am supporting [this](https://www.justgiving.com/page/mweeks05) is a link to my currently active charity fund raiser - thank you. -->
+Even if the event has passed, if you would like to donate to the cause I am supporting [this](https://www.justgiving.com/page/mweeks05) is a link to my currently active charity fund raiser - thank you!
 
-Even if the event has passed, if you would like to donate to a cause I am supporting [this](https://www.justgiving.com/page/mweeks04) is a link to my currently active charity fund raiser - thank you.
+[![Guide dog in a harness](img/aBlackGuideDogInDualHarness2.jpg)](https://www.justgiving.com/page/mweeks05)
 
-<!-- [Running 2600km in '26 in aid of Guide Dogs](https://www.justgiving.com/page/mweeks05)
-
-[![TBC](img/2025LLHMGuideDogs.jpg)](https://www.justgiving.com/page/mweeks05) -->
-
-[London Landmarks Half Marathon 2025 in aid of Guide Dogs](https://www.justgiving.com/page/mweeks04)
-
-[![Guide Dogs - Puppy in training](img/2025LLHMGuideDogs.jpg)](https://www.justgiving.com/page/mweeks04)
+[Running 2600km in '26 in aid of Guide Dogs](https://www.justgiving.com/page/mweeks05)
 
 ## Past fundraising
 
-<!-- [![Guide Dogs - Puppy in training](img/2025LLHMGuideDogs.jpg)](https://www.justgiving.com/page/mweeks04)
+[![Guide Dogs - Puppy in training](img/2025LLHMGuideDogs.jpg)](https://www.justgiving.com/page/mweeks04)
 [London Landmarks Half Marathon 2025 in aid of Guide Dogs](https://www.justgiving.com/page/mweeks04)
 
---- -->
+---
 
 [![Lisbon Bridge during the Half Marathon](img/2024SuperHalfsMINDLisbonv2.jpg)](https://www.justgiving.com/page/mweeks04)
 [2024 SuperHalfs in aid of MIND](https://www.justgiving.com/page/mweeks03)
