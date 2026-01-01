@@ -4,9 +4,9 @@
 
 Even if the event has passed, if you would like to donate to the cause I am supporting [this](https://www.justgiving.com/page/mweeks05) is a link to my currently active charity fund raiser - thank you!
 
-[![Guide dog in a harness](img/aBlackGuideDogInDualHarness2.jpg)](https://www.justgiving.com/page/mweeks05)
-
 [Running 2600km in '26 in aid of Guide Dogs](https://www.justgiving.com/page/mweeks05)
+
+[![Guide dog in a harness](img/aBlackGuideDogInDualHarness2.jpg)](https://www.justgiving.com/page/mweeks05)
 
 ## Past fundraising
 
